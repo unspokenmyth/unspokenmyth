@@ -1,4 +1,4 @@
-# Nishant Bagga
+# Hi, I am Nishant Bagga! 👋
 
 Undergrad CS student specializing in **data engineering, machine learning, AI, and defensive cybersecurity**. I develop scalable data pipelines, implement automation strategies, and create secure, impactful solutions—integrating advanced analytics with strong security practices. With hands-on experience in data projects and cybersecurity, I excel in collaborative environments like hackathons, driving innovation through practical application.
 
@@ -12,11 +12,18 @@ Undergrad CS student specializing in **data engineering, machine learning, AI, a
 
 ## 🛠️ Skills
 
-<img src="https://img.shields.io/badge/ROS-22313F?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-E34F26?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unspokenmyth&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unspokenmyth&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=unspokenmyth&theme=radical)
