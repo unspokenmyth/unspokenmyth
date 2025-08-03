@@ -1,6 +1,6 @@
 # Hello, I am Nishant Bagga! 👋
 
-Undergrad CS student specializing in **data engineering, machine learning, AI, and defensive cybersecurity**. I develop scalable data pipelines, implement automation strategies, and create secure, impactful solutions—integrating advanced analytics with strong security practices. With hands-on experience in data projects and cybersecurity, I excel in collaborative environments like hackathons, driving innovation through practical application.
+Undergrad CS student specializing in data engineering, machine learning, AI, and cybersecurity. I develop scalable data pipelines, implement automation strategies, and create secure, impactful solutions—integrating advanced analytics with strong security practices. Currently focusing on upskilling myself, with hands-on experience in data projects and cybersecurity—looking forward to contributing to organizations and collaborative initiatives. Let's connect and innovate together!
 
 🔭 Currently exploring big data technologies and real-time analytics.  
 🌱 Learning more about distributed systems and cloud-native deployments.  
