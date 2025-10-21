@@ -6,7 +6,7 @@ Undergrad CS student specializing in data engineering, machine learning, AI, and
 🌱 Learning more about distributed systems and cloud-native deployments.  
 👯 Open to collaborating on data-driven projects or hackathons.  
 📫 Reach me at:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nishant07bagga@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-bagga/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant07bagga@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-bagga/)
 ⚡ Fun fact: I won a Best Paper Award at SIGMA-24 for research on solar energy optimization using metaheuristic algorithms.
 
 ---
