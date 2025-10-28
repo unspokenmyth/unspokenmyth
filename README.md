@@ -14,7 +14,6 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
 
 ---
 
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
@@ -43,7 +42,6 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
----
 
 ## 📈 GitHub Stats
 
