@@ -50,6 +50,7 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/Apache_Hudi-FF6B35?style=for-the-badge&logo=apache&logoColor=white" alt="Hudi" />
 </p>
 
+
 ## 🚀 Key Projects
 
 | Project | Impact | Tech |
