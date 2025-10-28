@@ -1,63 +1,69 @@
 # Hi, I'm Nishant Bagga! 👋
 
 **CS undergrad** building **secure, scalable data systems** with **ML & real-time analytics**.  
-I design **dockerized data pipelines**, automate event streams, and integrate intelligent systems with precision — optimized through **metaheuristics**.
+I design **dockerized data pipelines**, automate event streams, and integrate intelligent systems — optimized with **metaheuristics**.
 
 🔭 Exploring **big data**, **stream processing**, and **modern data platforms**  
 🌱 Mastering **distributed systems** & **cloud-native infrastructure**  
-👯 Open to **hackathons**, **open-source**, **collaborative builds** & **internship oppurtunities**  
+👯 Open to **hackathons**, **open-source**, and **collaborative builds**
 
-📫 **nishant07bagga@gmail.com** · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-bagga/)  
+📫 <code>nishant07bagga@gmail.com</code> · <a href="https://www.linkedin.com/in/nishant-bagga/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="16" style="vertical-align:middle" /></a>
 
-⚡ Won **Best Paper** at **SIGMA-24** for optimizing solar energy systems with **metaheuristics**.
+⚡ Winner — **Best Paper @ SIGMA-24** for optimizing solar-energy systems with metaheuristics.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scala,java,cpp,bash,mysql,postgresql,mongodb,redis,spark,hadoop,hive,kafka,docker,prometheus,grafana,gcp,azure,linux,git&theme=dark" />
+  <!-- first row -->
+  <img src="https://skillicons.dev/icons?i=python,scala,java,cpp,bash,mysql,postgresql,mongodb,redis&theme=light" alt="tech row1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,seaborn,matplotlib,airflow,trino,superset&theme=dark" />
+  <!-- second row -->
+  <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,nifi,flink,hudi,trino,docker,grafana,prometheus&theme=light" alt="tech row2" />
 </p>
+
+> *Only icons, two compact lines. If you want different icons or a different order, tell me which ones to swap.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 **Dockerized Real-Time Data Pipeline**
-> Designed and containerized an **end-to-end data pipeline** processing 40GB/day across **MySQL, PostgreSQL, and SSAS** using  
-> **Apache NiFi, Kafka, Flink, Hudi, Trino, Hive, Airflow**, and **Superset** — all visualized with **Grafana & Prometheus**.  
-> **Highlights:** fault-tolerant ingestion · event-driven transformations · full observability stack.  
-🔗 [View Repository](https://github.com/unspokenmyth/real-time-data-pipeline)
+### 🧩 Dockerized Real-Time Data Pipeline
+**What:** Fully containerized end-to-end data ingestion and processing pipeline built to reliably handle **~40GB/day** of event and batch data.  
+**Why it matters:** Production-ready observability, fault tolerance, and schema evolution for high-throughput sources.  
+**Tech & highlights:** Apache NiFi (ingest) → Kafka (event backbone) → Flink (stream processing) → Apache Hudi (lake storage) → Trino/Hive (analytics). Deployed with Docker + Compose / Kubernetes manifests. Observability: Prometheus + Grafana.  
+🔗 https://github.com/unspokenmyth/Dockerized-Data-Pipeline
 
 ---
 
-### ⚙️ **EventStream Notify**
-> Built an **event streaming and alerting system** with **FastAPI, Kafka, and Redis**, pushing live notifications to users  
-> in milliseconds through **WebSocket channels**. Perfect blend of **data engineering + backend systems**.  
-> **Highlights:** async streams · pub/sub · Redis caching layer.  
-🔗 [View Repository](https://github.com/unspokenmyth/eventstream-notify)
+### ⚙️ EventStream Notify
+**What:** Low-latency event streaming + notification service for real-time user alerts and web clients.  
+**Why it matters:** Delivers sub-100ms notifications with guaranteed ordering and minimal duplication.  
+**Tech & highlights:** FastAPI backend, Kafka pub/sub, Redis for caching & pub/sub coordination, WebSocket consumers for live clients, async workers for fan-out and retry logic. Designed for horizontal scaling and backpressure handling.  
+🔗 https://github.com/unspokenmyth/eventstream-notify
 
 ---
 
-### 🤖 **Robotic Arm Control System**
-> Developed a **Python + Arduino-powered robotic arm** controlled through motion and input signals.  
-> Integrated **IoT sensors and servo mechanisms** for precise, programmable motion tracking.  
-> **Highlights:** embedded control · servo actuation · real-time calibration.  
-🔗 [View Repository](https://github.com/unspokenmyth/robotic-arm-control)
+### 🤖 Robotic Waste Segregation (Robotic Arm Control)
+**What:** Intelligent robotic arm prototype for waste segregation using computer vision and embedded control.  
+**Why it matters:** Bridges embedded controls with higher-level perception for automated material sorting.  
+**Tech & highlights:** Python CV pipeline for object classification, Arduino + servo control for actuation, IoT telemetry for monitoring and calibration, PID tuning for precise motion. Includes simulation + hardware integration tests.  
+🔗 https://github.com/unspokenmyth/Robotic-Waste-Segregation
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Highlights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=unspokenmyth&style=flat-square&color=blue)
 
 <p align="center">
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unspokenmyth&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=unspokenmyth&show_icons=true&theme=radical&hide=issues,prs,contribs,commits_reviewed" alt="GitHub Stats" />
+  <!-- Trophies: fewer columns so the last two don't show -->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=unspokenmyth&theme=radical&column=5&no-frame=true" alt="Trophies" />
 </p>
 
 ---
-
