@@ -53,6 +53,16 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/Apache_Hudi-FF6B35?style=for-the-badge&logo=apache&logoColor=white" alt="Hudi" />
 </p>
 
+## 🚀 Key Projects
+
+| Project | Impact | Tech |
+|---------|--------|------|
+| **[Dockerized-Data-Pipeline](https://github.com/unspokenmyth/Dockerized-Data-Pipeline)** | **Modern data lakehouse** with ACID transactions & real-time querying | **Docker • NiFi • Spark • Hudi • Trino** |
+| **[Robotic-Waste-Segregation](https://github.com/unspokenmyth/Robotic-Waste-Segregation)** | **Automated waste sorting** using computer vision & 5-DOF robotic arm | **YOLOv5 • Raspberry Pi • Arduino** |
+| **[EventStream-Notify](https://github.com/unspokenmyth/EventStream-Notify)** | **<1s event detection & alerting** across distributed streams | **Kafka • Redis • Python** |
+
+*Full code, docs & demos in pinned repos → click to explore.*
+
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=unspokenmyth&style=flat-square&color=blue)
