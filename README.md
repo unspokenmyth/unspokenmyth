@@ -16,42 +16,33 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://cdn.simpleicons.org/python/3776AB/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Python" />
-  <img src="https://cdn.simpleicons.org/scala/DC322F/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Scala" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="SQL" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Spark" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Kafka" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Airflow" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Redis" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="GCP" />
-  <img src="https://cdn.simpleicons.org/azure/0078D4/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Azure" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Scikit-Learn" />
-  <img src="https://cdn.simpleicons.org/pandas/150458/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="MLflow" />
-  <img src="https://cdn.simpleicons.org/git/F05032/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Git" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Grafana" />
-  <img src="https://cdn.simpleicons.org/apachehudi/FF6B35/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Hudi" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Databricks" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C/white" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Prometheus" />
-  <img src="https://cdn.simpleicons.org/apachehive/FDEE21/black" height="40" style="background:#fff; border-radius:6px; padding:4px; border:1px solid #eee;" alt="Hive" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
