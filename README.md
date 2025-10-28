@@ -35,12 +35,22 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-8C4FFF?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Fabric" />
+  <img src="https://img.shields.io/badge/Apache_NiFi-017081?style=for-the-badge&logo=apache&logoColor=white" alt="NiFi" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Apache_Superset-00A698?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Superset" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Apache_Ignite-000000?style=for-the-badge&logo=apache-ignite&logoColor=white" alt="Ignite" />
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive" />
+  <img src="https://img.shields.io/badge/Apache_Hudi-FF6B35?style=for-the-badge&logo=apache&logoColor=white" alt="Hudi" />
 </p>
 
 ## 📈 GitHub Stats
