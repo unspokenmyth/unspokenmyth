@@ -57,7 +57,7 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
 
 | Project | Impact | Tech |
 |---------|--------|------|
-| **[Dockerized-Data-Pipeline](https://github.com/unspokenmyth/Dockerized-Data-Pipeline)** | **Modern data lakehouse** with ACID transactions & real-time querying | **Docker • NiFi • Spark • Hadoop • Hive • Hudi • Trino • Superset • Airflow** |
+| **[Dockerized-Data-Pipeline](https://github.com/unspokenmyth/Dockerized-Data-Pipeline)** | **Modern data lakehouse** with ACID transactions & real-time querying | **Docker • NiFi • Spark • Hadoop • Hive • Trino • Airflow** |
 | **[Robotic-Waste-Seg](https://github.com/unspokenmyth/Robotic-Waste-Segregation)** | **Automated waste sorting** using computer vision & 5-DOF robotic arm | **YOLOv5 • Raspberry Pi • Arduino** |
 | **[EventStream-Notify](https://github.com/unspokenmyth/EventStream-Notify)** | **<1s event detection & alerting** across distributed streams | **Kafka • Redis • Python** |
 
