@@ -1,6 +1,6 @@
 # Hi, I'm Nishant Bagga! 👋
 
-**CS undergrad** building **secure, scalable data systems** with **ML & real-time analytics**.  
+**CS undergrad** building **secure, scalable data systems** with **ML & real-time analytics**. 
 I design **dockerized data pipelines**, automate event streams, and integrate intelligent systems — optimized with **metaheuristics**.
 
 🔭 Exploring **big data**, **stream processing**, and **modern data platforms**  
