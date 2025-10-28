@@ -12,9 +12,6 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
 
 ⚡ *Best Paper Award @ SIGMA-24* — Optimized solar energy systems using metaheuristic algorithms.
 
----
-
-
 ## 🛠️ Skills
 
 <p align="center">
