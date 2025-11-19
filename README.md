@@ -33,7 +33,7 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Microsoft_Fabric-8C4FFF?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Fabric" />
   <img src="https://img.shields.io/badge/Apache_NiFi-017081?style=for-the-badge&logo=apache&logoColor=white" alt="NiFi" />
 </p>
@@ -48,7 +48,11 @@ I design **dockerized data pipelines**, automate event streams, and integrate in
   <img src="https://img.shields.io/badge/Apache_Ignite-000000?style=for-the-badge&logo=apache-ignite&logoColor=white" alt="Ignite" />
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive" />
   <img src="https://img.shields.io/badge/Apache_Hudi-FF6B35?style=for-the-badge&logo=apache&logoColor=white" alt="Hudi" />
+  <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=dependabot&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6A0DAD?style=for-the-badge&logo=protocols&logoColor=white" alt="MCP" />
 </p>
+
 
 
 ## 🚀 Key Projects
